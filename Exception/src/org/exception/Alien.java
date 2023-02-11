@@ -32,7 +32,7 @@ public class Alien {
 			getNames("e");
 			getNames("c");
 		}catch(Akash e){
-			System.out.println(e +"  Exception occured 1");
+			System.out.println(e +"  Exception occured king 1");
 		}
 	}
 
